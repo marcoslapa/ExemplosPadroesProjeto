@@ -1,0 +1,13 @@
+D:\projetos\ExemplosDP\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+D:\projetos\ExemplosDP\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+D:\projetos\ExemplosDP\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+D:\projetos\ExemplosDP\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+D:\projetos\ExemplosDP\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\projetos\ExemplosDP\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
