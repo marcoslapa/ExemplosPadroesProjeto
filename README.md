@@ -6,4 +6,4 @@ Exemplos de Padrões de Projetos GoF explicados em minhas aulas
 ### Template Method: Exemplo da criação das casas de um Jogo
 ### Strategy: Text StreetFighter \o/
 ### Observer: Pacman \o/
-### Decorator: Criand monstros Hibridos com o Decorator
+### Decorator: Criando monstros Hibridos com o Decorator
