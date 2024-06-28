@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pNteeF+2MHVwzDBWdFcnPdf9YwAXunjeHMqpI+06L7/a6ulfN2zdUt9gfndbjKx4xdqaQGLpa7l9dliDtd/QAQ==",
+  "dgSpecHash": "4KgSXy6s4pY=",
   "success": true,
   "projectFilePath": "D:\\projetos\\ExemplosPadroesProjeto\\TemplateMethod\\TemplateMethod.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "D:\\nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
