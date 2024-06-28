@@ -11,3 +11,17 @@ D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csp
 D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
 D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
 D:\projetos\ExemplosDP\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.sourcelink.json
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+D:\projetos\ExemplosPadroesProjeto\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
